@@ -1,2 +1,1 @@
-# codes3
-Basic C problems
+**_Basic C problems_**
